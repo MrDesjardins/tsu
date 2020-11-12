@@ -1,0 +1,29 @@
+{
+  "name": "tsu",
+  "version": "1.0.0",
+  "description": "Examples for the free open-source TypeScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDesjardins/tsu.git"
+  },
+  "keywords": [
+    "typescript",
+    "course",
+    "tutorial"
+  ],
+  "author": "Patrick Desjardins <mrdesjardins@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDesjardins/tsu/issues"
+  },
+  "homepage": "https://github.com/MrDesjardins/tsu#readme",
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}
