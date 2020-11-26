@@ -10,4 +10,4 @@ const var16_3 = 2;
 
 var16_1 = 100;
 var16_2 = 100;
-// var16_3 = 100; // Error
+var16_3 = 100; // Error
