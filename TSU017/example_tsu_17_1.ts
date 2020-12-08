@@ -1,4 +1,4 @@
-namespace TSU_15_4 {
+namespace TSU_17_1 {
   function do_something() {
     console.log(bar); // undefined
     console.log(foo); // ReferenceError
