@@ -10,5 +10,4 @@ if (str2.length > TSU15_MAX_LENGTH2) {
 }
 str2 = "(" + str2 + ")";
 
-
 console.log(str + " " + str2);
