@@ -10,7 +10,7 @@ namespace tsu022 {
   printAndType(x2);
 
   let x3; // Any type
-  printAndType(x3); // Undefined becaues never initialized
+  printAndType(x3); // Undefined because never initialized
 
   let x4 = 1;
   printAndType(x4);
