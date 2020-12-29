@@ -1,6 +1,6 @@
 namespace tsu023_1 {
-  let x: number = 17;
   console.log("Base 10");
+  let x: number = 17;
   console.log(x);
   x = parseInt("17");
   console.log(x);
